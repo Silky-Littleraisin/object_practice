@@ -1,2 +1,2 @@
 # object_practice
-物語を紡ごう〜
+a little step is a seed to sleep
